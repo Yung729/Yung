@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>Stats</b>
 
 <a href="http://www.github.com/Yung729"><img src="https://github-readme-stats.vercel.app/api?username=Yung729&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="Yung729's GitHub stats" /></a>
 
