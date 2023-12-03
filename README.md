@@ -1,7 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yung
+<h1 align="center">Hi 👋, I'm Yung</h1>
 <h3 align="center">🌍 I'm based in Malaysia</h3>
-============================================================================================================================
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yung729" alt="yung729" /></a> </p>
 
