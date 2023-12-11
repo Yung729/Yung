@@ -17,4 +17,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yung729&show_icons=true&locale=en" alt="yung729" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yung729&" alt="yung729" /></p>
